@@ -1,4 +1,5 @@
 TUGAS PERTEMUAN 1
+
  
 1.	Tuliskan nama dan nomor NPM anda pada Jupiter Notebook.
  ![image](https://github.com/user-attachments/assets/78d6218e-53fa-423d-9bbe-d5a8b0713d28)
