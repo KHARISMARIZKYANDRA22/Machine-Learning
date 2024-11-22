@@ -1,5 +1,6 @@
 TUGAS PERTEMUAN 2
 
+
 Pengerjaan No.1
 1.	Sample dataset
 
