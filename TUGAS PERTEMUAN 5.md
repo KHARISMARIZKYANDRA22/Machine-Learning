@@ -41,37 +41,43 @@ Evaluasi model dengan accuracy score
  
 Evaluasi model dengan Precission score
 
-![image](https://github.com/user-attachments/assets/4fdf6d23-2022-4c3d-888f-1dbc7f2238d8)
- 
+![image](https://github.com/user-attachments/assets/77cf5b63-c018-451d-91ab-045791bfbaa7)
+
+
 Evaluasi model dengan recall score
 
-![image](https://github.com/user-attachments/assets/61b3e353-c587-4d71-81b4-b284629069f4)
+![image](https://github.com/user-attachments/assets/5858cbfd-c620-496f-af09-8e940bda23e5)
 
 Evaluasi model dengan F1 score
- 
+
+![image](https://github.com/user-attachments/assets/0dcb9bf5-2109-431a-8a39-084008950e44)
 
 Evaluasi model dengan classification report
 
- 
- 
-Evaluasi model dengan Mathews Correlation Coefficient	 
- 
+![image](https://github.com/user-attachments/assets/86789578-4b73-41d7-83fb-f04ac0714569)
+
+Evaluasi model dengan Mathews Correlation Coefficient
+
+![image](https://github.com/user-attachments/assets/87b79967-35c0-4f15-a79e-2d97bbdc6a16)
+
 2.	Support Vector Machine (SVM)
 
 Pengenalan MNIST Handwritten Digits Dataset
 
- 
- 
- 
+![image](https://github.com/user-attachments/assets/e900ae0b-1449-4ad7-9ad0-172aa8a06df1)
+![image](https://github.com/user-attachments/assets/69b7accf-cf8b-4471-81f3-b8f44fb5c1f1)
+
 Klasifikasi dengan Support Vector Classifier | SVC
 
- 
+![image](https://github.com/user-attachments/assets/00f077b8-bdbe-48fd-87f8-f527f16a6cf6)
 
- 
 Hyperparameter Tuning dengan Grid Search
- 
- 
+
+![image](https://github.com/user-attachments/assets/fb9b1fb8-ec04-4636-923a-b983c876fa44)
+![image](https://github.com/user-attachments/assets/adbb6f4b-620b-43a2-9ac5-38caec6a376f)
 
 Evaluasi Model
+
+![image](https://github.com/user-attachments/assets/18b966b3-1da2-45af-a5d7-3241e707d1e6)
 
  
